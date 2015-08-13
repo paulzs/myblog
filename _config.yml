@@ -2,7 +2,7 @@
 title: Paul's blog
 email: mail.paulshi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello there! This is a blog made by Paul using jekyll
+  Hello there! This is a blog made using jekyll.
 baseurl: ""
 url: "http://paulzs.com"
 github_username:  paulzs
